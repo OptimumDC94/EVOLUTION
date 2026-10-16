@@ -1,0 +1,6 @@
+{
+  "name": "EVOLUTION",
+  "description": "EVOLUTION: Idanre School Ecosystem & Rhyme & Synonym Finder for Writers and Students",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
